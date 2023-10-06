@@ -5,9 +5,8 @@ desde que he estado en el itp hemos aprendido un poco de html de css de c++ hast
 <h3 align="center">A passionate about knowledge</h3>
 
 
-* ✉️  You can contact me at jhonierpasos9@gmail.com
+* ✉️  You can contact me at danielfelipemorarosas@gmail.com
 * 🧠  yo estoy viendo programacion en el framework django
-* 😎  ya soy un crack en git y git hub
 
 
 ### Skills
