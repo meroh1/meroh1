@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel Mora
 =====================================================================================================================================
 
-desde que he estado en el itp hemos aprendido un poco de html de css de c++ hasta el , lenguaje dart programanado en flutter y un poco de appshet hasta el punto de ahora que vemos python en el framework de django
+Mis inicios programando han sido desde un poco de html, css, c++, lenguaje dart con flutter, appshet,python en el framework de django
 <h3 align="center">A passionate about knowledge</h3>
 
 
