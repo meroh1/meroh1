@@ -1,13 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel Mora
+Hi! My name is Mero
 =====================================================================================================================================
 
 Mis inicios programando han sido desde un poco de html, css, c++, lenguaje dart con flutter, appshet,python en el framework de django
 <h3 align="center">A passionate about knowledge</h3>
 
 
-* ✉️  You can contact me at danielfelipemorarosas@gmail.com
-* 🧠  yo estoy viendo programacion en el framework django
-
+* 🧠  Your vision + my code = results.
+* ✉️  You can contact me at ukumero2488@gmail.com
 
 ### Skills
 
