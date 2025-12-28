@@ -9,8 +9,8 @@
       <img width="230" style="display: block; height: auto; object-fit: contain; margin: 0 auto;" src="assets/meritpoCibiWhite.gif" alt="icon"/>
     </td>
     <td style="vertical-align: top;">
-      <h2 style="font-weight: bold; font-size: 2em; margin-bottom: 12px; margin-top: 0;">About me..</h2>
-      <div style="font-size: 1.6em; line-height: 1.9;">
+      <div style="font-weight: bold; font-size: 28px; margin-bottom: 16px; margin-top: 0; line-height: 1.3;">About me..</div>
+      <div style="font-size: 18px; line-height: 2.2;">
       📍 I'm in Colombia<br/><br/>
       💻 I'm Backend Developer<br/>
       🧠 Passionate about knowledge.<br/><br/>
@@ -23,8 +23,8 @@
 
 <hr>
 
-<div align="center" style="font-size: 1.6em;">
-  <titleM style="font-weight: bold; font-size: 2em; margin-bottom: 10px; margin-top: 0;">🌐 Skills</titleM></br>
+<div align="center" style="font-size: 18px;">
+  <div style="font-weight: bold; font-size: 28px; margin-bottom: 16px; margin-top: 0; line-height: 1.3;">🌐 Skills</div>
   <br/>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=cpp,html,css,javascript">
@@ -36,8 +36,8 @@
 
 <hr>
 
-<div align="center" style="font-size: 1.6em;">
-  <titleM style="font-weight: bold; font-size: 2em; margin-bottom: 10px; margin-top: 0;">🛠️ DevOps & Tools</titleM></br>
+<div align="center" style="font-size: 18px;">
+  <div style="font-weight: bold; font-size: 28px; margin-bottom: 16px; margin-top: 0; line-height: 1.3;">🛠️ DevOps & Tools</div>
   <br/>
   <p align="center">
     <a href="https://skillicons.dev">
@@ -48,8 +48,8 @@
 
 <hr>
 
-<div align="center" style="font-size: 1.6em;">
-  <titleM style="font-weight: bold; font-size: 2em; margin-bottom: 10px; margin-top: 0;">📚 Learning</titleM></br>
+<div align="center" style="font-size: 18px;">
+  <div style="font-weight: bold; font-size: 28px; margin-bottom: 16px; margin-top: 0; line-height: 1.3;">📚 Learning</div>
   <br/>
   <p align="center">
     <a href="https://skillicons.dev">
@@ -60,8 +60,8 @@
 
 <hr>
 
-<div align="center" style="font-size: 1.6em;">
-  <titleM style="font-weight: bold; font-size: 2em; margin-bottom: 10px; margin-top: 0;">💬 Let's connect!</titleM></br></br>
+<div align="center" style="font-size: 18px;">
+  <div style="font-weight: bold; font-size: 28px; margin-bottom: 16px; margin-top: 0; line-height: 1.3;">💬 Let's connect!</div>
   <p align="center">
     <a href="https://github.com/meroh1" target="_blank">
       <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
