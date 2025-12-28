@@ -1,21 +1,92 @@
-Hi! My name is Mero
-=====================================================================================================================================
+<style>
+  tituloM {
+    display: block;
+    font-weight: bold;
+    font-size: 1.4em;
+    margin-bottom: 10px;
+  }
+  body {
+    font-size: 1.1em;
+  }
+</style>
 
-Mis inicios programando han sido desde un poco de html, css, c++, lenguaje dart con flutter, appshet,python en el framework de django
-<h3 align="center">A passionate about knowledge</h3>
+<div align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=BBH+Sans+Bogle&weight=300&size=85&duration=2200&pause=1500&color=8A429D&center=true&vCenter=true&width=750&height=150&lines=Hey!+I'm+Mero%F0%9F%A6%A6" alt="Typing SVG" /></a>
+</div>
+
+<hr>
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex: 1;">
+    <tituloM>About me..</tituloM>
+    <div style="font-size: 1.1em; line-height: 1.8;">
+    📍 I'm in Colombia<br/><br/>
+    💻 I'm Backend Developer<br/>
+    🧠 Passionate about knowledge.<br/><br/>
+    🌱 I'm currently learning React.<br/>
+    🀄  I am also willing to collaborate on projects.
+    </div>
+  </div>
+  <div style="flex-shrink: 0; margin-left: 20px;">
+    <img width="170" src="assets/meritpoCibiWhite.gif" alt="icon"/>
+  </div>
+</div>
+
+<hr>
+
+<div align="center" style="font-size: 1.1em;">
+  <tituloM>🌐 Skills</tituloM>
+  <br/>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cpp,html,css,javascript">
+    </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,mysql,flutter,firebase&perline=7">
+  </a>
+</div>
+
+<hr>
+
+<div align="center" style="font-size: 1.1em;">
+  <tituloM>🛠️ DevOps & Tools</tituloM>
+  <br/>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=docker,git,github,postman&perline=6">
+    </a>
+  </p>
+</div>
+
+<hr>
+
+<div align="center" style="font-size: 1.1em;">
+  <tituloM>📚 Learning</tituloM>
+  <br/>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,linux,regex&perline=5">
+    </a>
+  </p>
+</div>
+
+<hr>
+
+<div align="center" style="font-size: 1.1em;">
+  <tituloM>💬 Let's connect!</tituloM>
+  <p align="center">
+    <a href="https://github.com/meroh1" target="_blank">
+      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/merodann" target="_blank">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:merito2488@gmail.com" target="_blank">
+      <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://instagram.com/meroh.dev" target="_blank">
+      <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+  </p>
+</div>
 
 
-* 🧠  Your vision + my code = results.
-* ✉️  You can contact me at ukumero2488@gmail.com
 
-### Skills
-
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></a>
-</p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.facebook.com/jhonier pasos" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/jhonierp" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
