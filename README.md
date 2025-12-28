@@ -9,8 +9,8 @@
       <img width="230" style="display: block; height: auto; object-fit: contain; margin: 0 auto;" src="assets/meritpoCibiWhite.gif" alt="icon"/>
     </td>
     <td style="vertical-align: top;">
-      <h2 style="font-weight: bold; font-size: 1.5em; margin-bottom: 12px; margin-top: 0;">About me..</h2>
-      <div style="font-size: 1.15em; line-height: 1.9;">
+      <h2 style="font-weight: bold; font-size: 2em; margin-bottom: 12px; margin-top: 0;">About me..</h2>
+      <div style="font-size: 1.6em; line-height: 1.9;">
       📍 I'm in Colombia<br/><br/>
       💻 I'm Backend Developer<br/>
       🧠 Passionate about knowledge.<br/><br/>
@@ -23,7 +23,7 @@
 
 <hr>
 
-<div align="center" style="font-size: 1.1em;">
+<div align="center" style="font-size: 1.6em;">
   <titleM style="font-weight: bold; font-size: 2em; margin-bottom: 10px; margin-top: 0;">🌐 Skills</titleM></br>
   <br/>
     <a href="https://skillicons.dev">
@@ -36,7 +36,7 @@
 
 <hr>
 
-<div align="center" style="font-size: 1.1em;">
+<div align="center" style="font-size: 1.6em;">
   <titleM style="font-weight: bold; font-size: 2em; margin-bottom: 10px; margin-top: 0;">🛠️ DevOps & Tools</titleM></br>
   <br/>
   <p align="center">
@@ -48,7 +48,7 @@
 
 <hr>
 
-<div align="center" style="font-size: 1.1em;">
+<div align="center" style="font-size: 1.6em;">
   <titleM style="font-weight: bold; font-size: 2em; margin-bottom: 10px; margin-top: 0;">📚 Learning</titleM></br>
   <br/>
   <p align="center">
@@ -60,7 +60,7 @@
 
 <hr>
 
-<div align="center" style="font-size: 1.1em;">
+<div align="center" style="font-size: 1.6em;">
   <titleM style="font-weight: bold; font-size: 2em; margin-bottom: 10px; margin-top: 0;">💬 Let's connect!</titleM></br></br>
   <p align="center">
     <a href="https://github.com/meroh1" target="_blank">
