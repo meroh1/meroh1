@@ -5,8 +5,8 @@
 <hr>
 <table style="width: 100%; max-width: 1100px; border: 0; border-collapse: collapse; margin: 0 auto 24px auto;">
   <tr>
-    <td style="width: 220px; vertical-align: top; text-align: center; padding-right: 20px;">
-      <img width="190" height="190" style="display: block; object-fit: contain; margin: 0 auto;" src="assets/meritpoCibiWhite.gif" alt="icon"/>
+    <td style="width: 190px; vertical-align: top; text-align: center; padding-right: 16px;">
+      <img width="200" height="200" style="display: block; object-fit: contain; margin: 0 auto;" src="assets/meritpoCibiWhite.gif" alt="icon"/>
     </td>
     <td style="vertical-align: top;">
       <h2 style="font-weight: bold; font-size: 1.5em; margin-bottom: 12px; margin-top: 0;">About me..</h2>
