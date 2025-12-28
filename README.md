@@ -3,12 +3,12 @@
 </div>
 
 <hr>
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <div style="flex-shrink: 0; margin-right: 20px;">
-    <img width="170" src="assets/meritpoCibiWhite.gif" alt="icon"/>
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+  <div style="flex-shrink: 0;">
+    <img width="170" height="170" style="display: block;" src="TU_ENLACE_DE_DRIVE_AQUI" alt="icon"/>
   </div>
-  <div style="flex: 1;">
-    <titleM style="font-weight: bold; font-size: 1.4em; margin-bottom: 10px; margin-top: 0;">About me..</titleM><br/><br/>
+  <div style="flex: 1; vertical-align: top;">
+    <h2 style="font-weight: bold; font-size: 1.4em; margin-bottom: 10px; margin-top: 0;">About me..</h2>
     <div style="font-size: 1.1em; line-height: 1.8;">
     📍 I'm in Colombia<br/><br/>
     💻 I'm Backend Developer<br/>
