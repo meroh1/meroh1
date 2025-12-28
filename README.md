@@ -3,21 +3,23 @@
 </div>
 
 <hr>
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
-  <div style="flex-shrink: 0;">
-    <img width="170" height="170" style="display: block; object-fit: contain;" src="assets/meritpoCibiWhite.gif" alt="icon"/>
-  </div>
-  <div style="flex: 1;">
-    <h2 style="font-weight: bold; font-size: 1.4em; margin-bottom: 10px; margin-top: 0;">About me..</h2>
-    <div style="font-size: 1.1em; line-height: 1.8;">
-    📍 I'm in Colombia<br/><br/>
-    💻 I'm Backend Developer<br/>
-    🧠 Passionate about knowledge.<br/><br/>
-    🌱 I'm currently learning React.<br/>
-    🀄 I am also willing to collaborate on projects.
-    </div>
-  </div>
-</div>
+<table style="width: 100%; border: 0; border-collapse: collapse; margin-bottom: 20px;">
+  <tr>
+    <td style="width: 180px; vertical-align: top; text-align: center; padding-right: 16px;">
+      <img width="170" height="170" style="display: block; object-fit: contain; margin: 0 auto;" src="assets/meritpoCibiWhite.gif" alt="icon"/>
+    </td>
+    <td style="vertical-align: top;">
+      <h2 style="font-weight: bold; font-size: 1.4em; margin-bottom: 10px; margin-top: 0;">About me..</h2>
+      <div style="font-size: 1.1em; line-height: 1.8;">
+      📍 I'm in Colombia<br/><br/>
+      💻 I'm Backend Developer<br/>
+      🧠 Passionate about knowledge.<br/><br/>
+      🌱 I'm currently learning React.<br/>
+      🀄 I am also willing to collaborate on projects.
+      </div>
+    </td>
+  </tr>
+</table>
 
 <hr>
 
