@@ -5,8 +5,8 @@
 <hr>
 <table style="width: 100%; max-width: 1100px; border: 0; border-collapse: collapse; margin: 0 auto 24px auto;">
   <tr>
-    <td style="width: 190px; vertical-align: top; text-align: center; padding-right: 16px;">
-      <img width="200" height="200" style="display: block; object-fit: contain; margin: 0 auto;" src="assets/meritpoCibiWhite.gif" alt="icon"/>
+    <td style="width: 170px; vertical-align: top; text-align: center; padding-right: 20px;">
+      <img width="230" style="display: block; height: auto; object-fit: contain; margin: 0 auto;" src="assets/meritpoCibiWhite.gif" alt="icon"/>
     </td>
     <td style="vertical-align: top;">
       <h2 style="font-weight: bold; font-size: 1.5em; margin-bottom: 12px; margin-top: 0;">About me..</h2>
@@ -24,7 +24,7 @@
 <hr>
 
 <div align="center" style="font-size: 1.1em;">
-  <titleM style="font-weight: bold; font-size: 1.4em; margin-bottom: 10px; margin-top: 0;">🌐 Skills</titleM></br>
+  <titleM style="font-weight: bold; font-size: 2em; margin-bottom: 10px; margin-top: 0;">🌐 Skills</titleM></br>
   <br/>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=cpp,html,css,javascript">
@@ -37,7 +37,7 @@
 <hr>
 
 <div align="center" style="font-size: 1.1em;">
-  <titleM style="font-weight: bold; font-size: 1.4em; margin-bottom: 10px; margin-top: 0;">🛠️ DevOps & Tools</titleM></br>
+  <titleM style="font-weight: bold; font-size: 2em; margin-bottom: 10px; margin-top: 0;">🛠️ DevOps & Tools</titleM></br>
   <br/>
   <p align="center">
     <a href="https://skillicons.dev">
@@ -49,7 +49,7 @@
 <hr>
 
 <div align="center" style="font-size: 1.1em;">
-  <titleM style="font-weight: bold; font-size: 1.4em; margin-bottom: 10px; margin-top: 0;">📚 Learning</titleM></br>
+  <titleM style="font-weight: bold; font-size: 2em; margin-bottom: 10px; margin-top: 0;">📚 Learning</titleM></br>
   <br/>
   <p align="center">
     <a href="https://skillicons.dev">
@@ -61,7 +61,7 @@
 <hr>
 
 <div align="center" style="font-size: 1.1em;">
-  <titleM style="font-weight: bold; font-size: 1.4em; margin-bottom: 10px; margin-top: 0;">💬 Let's connect!</titleM></br></br>
+  <titleM style="font-weight: bold; font-size: 2em; margin-bottom: 10px; margin-top: 0;">💬 Let's connect!</titleM></br></br>
   <p align="center">
     <a href="https://github.com/meroh1" target="_blank">
       <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
