@@ -1,40 +1,28 @@
-<style>
-  tituloM {
-    display: block;
-    font-weight: bold;
-    font-size: 1.4em;
-    margin-bottom: 10px;
-  }
-  body {
-    font-size: 1.1em;
-  }
-</style>
-
 <div align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=BBH+Sans+Bogle&weight=300&size=85&duration=2200&pause=1500&color=8A429D&center=true&vCenter=true&width=750&height=150&lines=Hey!+I'm+Mero%F0%9F%A6%A6" alt="Typing SVG" /></a>
 </div>
 
 <hr>
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex-shrink: 0; margin-right: 20px;">
+    <img width="170" src="assets/meritpoCibiWhite.gif" alt="icon"/>
+  </div>
   <div style="flex: 1;">
-    <tituloM>About me..</tituloM>
+    <titleM style="font-weight: bold; font-size: 1.4em; margin-bottom: 10px; margin-top: 0;">About me..</titleM><br/><br/>
     <div style="font-size: 1.1em; line-height: 1.8;">
     📍 I'm in Colombia<br/><br/>
     💻 I'm Backend Developer<br/>
     🧠 Passionate about knowledge.<br/><br/>
     🌱 I'm currently learning React.<br/>
-    🀄  I am also willing to collaborate on projects.
+    🀄 also I'm willing to collaborate on open source projects.
     </div>
-  </div>
-  <div style="flex-shrink: 0; margin-left: 20px;">
-    <img width="170" src="assets/meritpoCibiWhite.gif" alt="icon"/>
   </div>
 </div>
 
 <hr>
 
 <div align="center" style="font-size: 1.1em;">
-  <tituloM>🌐 Skills</tituloM>
+  <h2 style="font-weight: bold; font-size: 1.4em; margin-bottom: 10px; margin-top: 0;">🌐 Skills</h2>
   <br/>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=cpp,html,css,javascript">
@@ -47,7 +35,7 @@
 <hr>
 
 <div align="center" style="font-size: 1.1em;">
-  <tituloM>🛠️ DevOps & Tools</tituloM>
+  <h2 style="font-weight: bold; font-size: 1.4em; margin-bottom: 10px; margin-top: 0;">🛠️ DevOps & Tools</h2>
   <br/>
   <p align="center">
     <a href="https://skillicons.dev">
@@ -59,7 +47,7 @@
 <hr>
 
 <div align="center" style="font-size: 1.1em;">
-  <tituloM>📚 Learning</tituloM>
+  <h2 style="font-weight: bold; font-size: 1.4em; margin-bottom: 10px; margin-top: 0;">📚 Learning</h2>
   <br/>
   <p align="center">
     <a href="https://skillicons.dev">
@@ -71,7 +59,7 @@
 <hr>
 
 <div align="center" style="font-size: 1.1em;">
-  <tituloM>💬 Let's connect!</tituloM>
+  <h2 style="font-weight: bold; font-size: 1.4em; margin-bottom: 10px; margin-top: 0;">💬 Let's connect!</h2>
   <p align="center">
     <a href="https://github.com/meroh1" target="_blank">
       <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
