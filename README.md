@@ -1,24 +1,22 @@
 <div align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=45&duration=3000&pause=1000&color=8A429D&vCenter=true&width=410&height=45&lines=Hey!+I'm+Mero%F0%9F%A6%A6" alt="Typing SVG" /></a>
 </div>
+<br/>
 
 # ✨ About me..
 
-<table cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="210" align="center" valign="middle">
-      <img width="210" src="assets/meritpoCibiWhite.gif" alt="icon"/>
-    </td>
-    <td width="30"></td>
-    <td valign="middle">
-      <h3>📍  I'm in Colombia</h3><br/>
-      <h3>💻  I'm Backend Developer</h3>
-      <h3>🧠  Passionate about knowledge.</h3><br/>
-      <h3>🌱  I'm currently learning React.</h3>
-      <h3>🀄  I am also willing to collaborate on projects.</h3>
-    </td>
-  </tr>
-</table>
+<div>
+  <img align="left" width="210" src="assets/meritpoCibiWhite.gif" alt="icon"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <div align="center">
+    <h3>📍  I'm in Colombia</h3>
+    <h3>💻  I'm Backend Developer</h3><br/>
+    <h3>🌱  I'm currently learning React.</h3>
+    <h3>🧠  Passionate about knowledge.</h3><br/>
+    <h3>🀄  I am also willing to collaborate on projects.</h3>
+  </div>
+</div>
+<br clear="both"/>
 <br/>
 
 # 🌐 Skills
