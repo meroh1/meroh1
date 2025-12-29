@@ -5,7 +5,7 @@
 # ✨ About me..
 
 <div>
-  <img align="left" width="210" hspace="30" src="assets/meritpoCibiWhite.gif" alt="icon"/>
+  <img align="left" width="210" hspace="40" src="assets/meritpoCibiWhite.gif" alt="icon"/>
   <br/>
   <div>
     <h3>📍  I'm in Colombia</h3><br/>
