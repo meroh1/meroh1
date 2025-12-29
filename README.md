@@ -2,30 +2,26 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=BBH+Sans+Bogle&weight=300&size=85&duration=2200&pause=1500&color=8A429D&center=true&vCenter=true&width=750&height=150&lines=Hey!+I'm+Mero%F0%9F%A6%A6" alt="Typing SVG" /></a>
 </div>
 
-<hr>
-<table style="width: 100%; max-width: 1100px; border: 0; border-collapse: collapse; margin: 0 auto 24px auto;">
+# About me..
+<table>
   <tr>
-    <td style="width: 170px; vertical-align: top; text-align: center; padding-right: 20px;">
-      <img width="230" style="display: block; height: auto; object-fit: contain; margin: 0 auto;" src="assets/meritpoCibiWhite.gif" alt="icon"/>
+    <td width="170" align="center">
+      <img width="230" src="assets/meritpoCibiWhite.gif" alt="icon"/>
     </td>
-    <td style="vertical-align: top;">
-      <div style="font-weight: bold; font-size: 28px; margin-bottom: 16px; margin-top: 0; line-height: 1.3;">About me..</div>
-      <div style="font-size: 18px; line-height: 2.2;">
-      📍 I'm in Colombia<br/><br/>
-      💻 I'm Backend Developer<br/>
-      🧠 Passionate about knowledge.<br/><br/>
-      🌱 I'm currently learning React.<br/>
-      🀄 I am also willing to collaborate on projects.
-      </div>
+    <td>
+      <h3>📍 I'm in Colombia</h3>
+      <h3>💻 I'm Backend Developer</h3>
+      <h3>🧠 Passionate about knowledge.</h3>
+      <h3>🌱 I'm currently learning React.</h3>
+      <h3>🀄 I am also willing to collaborate on projects.</strong></h3>
     </td>
   </tr>
 </table>
 
-<hr>
 
-<div align="center" style="font-size: 18px;">
-  <div style="font-weight: bold; font-size: 28px; margin-bottom: 16px; margin-top: 0; line-height: 1.3;">🌐 Skills</div>
-  <br/>
+# 🌐 Skills
+
+<div align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=cpp,html,css,javascript">
     </a>
@@ -33,24 +29,22 @@
     <img src="https://skillicons.dev/icons?i=python,mysql,flutter,firebase&perline=7">
   </a>
 </div>
+<br/>
 
-<hr>
+# 🛠️ DevOps & Tools
 
-<div align="center" style="font-size: 18px;">
-  <div style="font-weight: bold; font-size: 28px; margin-bottom: 16px; margin-top: 0; line-height: 1.3;">🛠️ DevOps & Tools</div>
-  <br/>
+<div align="center">
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=docker,git,github,postman&perline=6">
     </a>
   </p>
 </div>
+<br/>
 
-<hr>
+# 📚 Learning
 
-<div align="center" style="font-size: 18px;">
-  <div style="font-weight: bold; font-size: 28px; margin-bottom: 16px; margin-top: 0; line-height: 1.3;">📚 Learning</div>
-  <br/>
+<div align="center">
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=react,linux,regex&perline=5">
@@ -58,10 +52,9 @@
   </p>
 </div>
 
-<hr>
+# 💬 Let's connect!
 
-<div align="center" style="font-size: 18px;">
-  <div style="font-weight: bold; font-size: 28px; margin-bottom: 16px; margin-top: 0; line-height: 1.3;">💬 Let's connect!</div>
+<div align="center">
   <p align="center">
     <a href="https://github.com/meroh1" target="_blank">
       <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
