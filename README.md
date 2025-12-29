@@ -4,18 +4,21 @@
 
 # ✨ About me..
 
-<div>
-  <img align="left" width="210" hspace="40" src="assets/meritpoCibiWhite.gif" alt="icon"/>
-  <br/>
-  <div>
-    <h3>📍  I'm in Colombia</h3><br/>
-    <h3>💻  I'm Backend Developer</h3>
-    <h3>🧠  Passionate about knowledge.</h3><br/>
-    <h3>🌱  I'm currently learning React.</h3>
-    <h3>🀄  I am also willing to collaborate on projects.</h3>
-  </div>
-</div>
-<br clear="both"/>
+<table cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="210" align="center" valign="middle">
+      <img width="210" src="assets/meritpoCibiWhite.gif" alt="icon"/>
+    </td>
+    <td width="30"></td>
+    <td valign="middle">
+      <h3>📍  I'm in Colombia</h3><br/>
+      <h3>💻  I'm Backend Developer</h3>
+      <h3>🧠  Passionate about knowledge.</h3><br/>
+      <h3>🌱  I'm currently learning React.</h3>
+      <h3>🀄  I am also willing to collaborate on projects.</h3>
+    </td>
+  </tr>
+</table>
 <br/>
 
 # 🌐 Skills
